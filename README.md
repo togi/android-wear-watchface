@@ -12,6 +12,13 @@ This sample application is only provided as a reference of how the Watchface API
 implemented on Android Wear. I don't know if or when this will become a public API, but you should
 probably assume it will change by the time they do make it public.
 
+Screenshots
+-----------
+
+![Watchface in the picker](https://github.com/togi/android-wear-watchface/raw/master/picker.png)
+![Watchface on the home screen](https://github.com/togi/android-wear-watchface/raw/master/screen.png)
+
+
 License
 -------
 

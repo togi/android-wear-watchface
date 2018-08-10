@@ -2,7 +2,7 @@ Android Wear Watchface Sample
 =============================
 
 This is a small sample to show what the current watchface API in Android Wear looks like. Currently,
-you can make a watchface show up in the the watchface picker, and pick it as your watchface.
+you can make a watchface show up in the watchface picker, and pick it as your watchface.
 
 Unfortunately, the API to actually configure how your watchface should interact with the rest of the
 system isn't public. To use it, you need to sign your APK with either the system certificate, or
